@@ -1,0 +1,6 @@
+//不想用eslint检查代码规范的部分
+
+/build/
+/config/
+/dist/
+/*.js
